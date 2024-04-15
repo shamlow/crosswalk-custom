@@ -1,4 +1,4 @@
-# Scott's Crosswalk Vanilla Demo Site
+# Scott's Crosswalk Custom Demo Site
 Just a simple site to make sure everything works
 
 ## Environments
