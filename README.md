@@ -2,8 +2,8 @@
 Just a simple site to make sure everything works
 
 ## Environments
-- Preview: https://main--crosswalk--shamlow.hlx.page/
-- Live: https://main--crosswalk--shamlow.hlx.live/
+- Preview: https://main--crosswalk-custom--shamlow.hlx.page/
+- Live: https://main--crosswalk-custom--shamlow.hlx.live/
 
 ## Installation
 
